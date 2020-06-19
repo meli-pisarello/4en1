@@ -4,3 +4,5 @@ C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\
 C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\consola4en1\obj\Debug\consola4en1.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\consola4en1\obj\Debug\consola4en1.exe
 C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\consola4en1\obj\Debug\consola4en1.pdb
+C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\consola4en1\obj\Debug\consola4en1.BoardForm.resources
+C:\Users\Developer\Documents\UTN\3_PROGRAMACION III\final\proyectos\consola4en1\consola4en1\obj\Debug\consola4en1.csproj.GenerateResource.cache
